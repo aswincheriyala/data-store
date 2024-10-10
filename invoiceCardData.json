@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "invoiceType": "blocked",
+      "numberOfInvoices": 7,
+      "invoiceValue": 312.42
+    },
+    {
+      "invoiceType": "pending",
+      "numberOfInvoices": 28,
+      "invoiceValue": 1746.45
+    },
+    {
+      "invoiceType": "totalInvoices",
+      "numberOfInvoices": 500,
+      "invoiceValue": 12123.45
+    }
+  ],
+  "status": null,
+  "message": null,
+  "errors": null
+}
