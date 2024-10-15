@@ -1,0 +1,318 @@
+{
+    "data": {
+        "aggregatePaidInvoices": [
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA01",
+                "companyCodeName": "MAKROZA02",
+                "paymentDocumentNumber": "12346",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 230.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1003",
+                        "documentNumber": "DOC300",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    },
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1004",
+                        "documentNumber": "DOC400",
+                        "amount": 130.0,
+                        "deductions": 7.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02",
+                "paymentDocumentNumber": "10001",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC500",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02",
+                "paymentDocumentNumber": "10002",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC600",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02  ",
+                "paymentDocumentNumber": "10003",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC700",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02",
+                "paymentDocumentNumber": "10004",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC800",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02  ",
+                "paymentDocumentNumber": "10005",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC900",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02",
+                "paymentDocumentNumber": "10006",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC1000",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02",
+                "paymentDocumentNumber": "10007",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC1100",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02",
+                "paymentDocumentNumber": "10008",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC1200",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02",
+                "paymentDocumentNumber": "10009",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC1300",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02",
+                "paymentDocumentNumber": "10010",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC1400",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02",
+                "paymentDocumentNumber": "10011",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC1500",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            },
+            {
+                "banner": "MAKRO",
+                "vendorNumber": "200",
+                "companyCode": "ZA02",
+                "companyCodeName": "MAKROZA02",
+                "paymentDocumentNumber": "10012",
+                "paymentDate": "2024-01-31 00:00:00.0",
+                "totalAmount": 100.0,
+                "currency": "ZAR",
+                "paymentFiscalYear": "2024",
+                "lastDownloadDate": "2024-01-31",
+                "paidInvoiceItemList": [
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1005",
+                        "documentNumber": "DOC1600",
+                        "amount": 100.0,
+                        "deductions": 10.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    }
+                ]
+            }
+        ],
+        "totalCount": 13
+    },
+    "status": null,
+    "message": null,
+    "errors": null
+}
