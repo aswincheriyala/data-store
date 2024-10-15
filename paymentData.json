@@ -71,8 +71,35 @@
                     {
                         "paymentDocumentNumber": null,
                         "invoiceNumber": "1005",
-                        "documentNumber": "DOC600",
+                        "documentNumber": "DOC601",
                         "amount": 100.0,
+                        "deductions": 22.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    },
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1006",
+                        "documentNumber": "DOC602",
+                        "amount": 110.0,
+                        "deductions": 18.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    },
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1007",
+                        "documentNumber": "DOC603",
+                        "amount": 120.0,
+                        "deductions": 11.0,
+                        "currency": "ZAR",
+                        "transactionType": "Invoice"
+                    },
+                    {
+                        "paymentDocumentNumber": null,
+                        "invoiceNumber": "1008",
+                        "documentNumber": "DOC604",
+                        "amount": 102.0,
                         "deductions": 10.0,
                         "currency": "ZAR",
                         "transactionType": "Invoice"
