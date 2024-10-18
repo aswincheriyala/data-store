@@ -16,19 +16,6 @@
                                 "companyName": "MakroMZ5"
                             }
                         ]
-                    },
-                    {
-                        "vendorNumber": "99",
-                        "companies": [
-                            {
-                                "companyCode": "MZ1",
-                                "companyName": "MakroMZ4"
-                            },
-                            {
-                                "companyCode": "MZ2",
-                                "companyName": "MakroMZ5"
-                            }
-                        ]
                     }
                 ]
             }
