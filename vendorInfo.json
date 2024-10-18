@@ -1,0 +1,40 @@
+{
+    "data": {
+        "banners": [
+            {
+                "bannerName": "MAKRO",
+                "vendors": [
+                    {
+                        "vendorNumber": "100",
+                        "companies": [
+                            {
+                                "companyCode": "MZ1",
+                                "companyName": "MakroMZ4"
+                            },
+                            {
+                                "companyCode": "MZ2",
+                                "companyName": "MakroMZ5"
+                            }
+                        ]
+                    },
+                    {
+                        "vendorNumber": "99",
+                        "companies": [
+                            {
+                                "companyCode": "MZ1",
+                                "companyName": "MakroMZ4"
+                            },
+                            {
+                                "companyCode": "MZ2",
+                                "companyName": "MakroMZ5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "status": null,
+    "message": null,
+    "errors": null
+}
