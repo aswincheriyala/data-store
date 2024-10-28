@@ -16,6 +16,81 @@
                                 "companyName": "MakroMZ5"
                             }
                         ]
+                    },
+                    {
+                        "vendorNumber": "99",
+                        "companies": [
+                            {
+                                "companyCode": "MZ1",
+                                "companyName": "MakroMZ4"
+                            },
+                            {
+                                "companyCode": "MZ2",
+                                "companyName": "MakroMZ5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "bannerName": "MDD",
+                "vendors": [
+                    {
+                        "vendorNumber": "100",
+                        "companies": [
+                            {
+                                "companyCode": "GZ1",
+                                "companyName": "GameGZ4"
+                            },
+                            {
+                                "companyCode": "GZ2",
+                                "companyName": "GameGZ5"
+                            }
+                        ]
+                    },
+                    {
+                        "vendorNumber": "99",
+                        "companies": [
+                            {
+                                "companyCode": "GZ1",
+                                "companyName": "GameGZ4"
+                            },
+                            {
+                                "companyCode": "GZ2",
+                                "companyName": "GameGZ5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "bannerName": "MASSBUILD",
+                "vendors": [
+                    {
+                        "vendorNumber": "100",
+                        "companies": [
+                            {
+                                "companyCode": "BZ1",
+                                "companyName": "BuildersBZ4"
+                            },
+                            {
+                                "companyCode": "BZ2",
+                                "companyName": "BuildersBZ5"
+                            }
+                        ]
+                    },
+                    {
+                        "vendorNumber": "99",
+                        "companies": [
+                            {
+                                "companyCode": "BZ1",
+                                "companyName": "BuildersBZ4"
+                            },
+                            {
+                                "companyCode": "BZ2",
+                                "companyName": "BuildersBZ5"
+                            }
+                        ]
                     }
                 ]
             }
