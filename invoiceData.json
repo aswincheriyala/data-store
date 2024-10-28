@@ -2,7 +2,7 @@
   "data": {
     "aggregateOpenInvoices": [
       {
-        "invoiceNo": "122340",
+        "invoiceNo": "122\340",
         "invoiceDate": "2024-01-01",
         "paymentDueDate": "2025-01-01",
         "amount": 123.45,
