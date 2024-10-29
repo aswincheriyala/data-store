@@ -6,6 +6,8 @@
                 "vendors": [
                     {
                         "vendorNumber": "100",
+                        "vendorName": "Vendor 100",
+                        "vendorEmail": "Vendo.100@massmart.com",
                         "companies": [
                             {
                                 "companyCode": "MZ1",
@@ -19,6 +21,8 @@
                     },
                     {
                         "vendorNumber": "99",
+                        "vendorName": "Vendor 99",
+                        "vendorEmail": "Vendo.99@massmart.com",
                         "companies": [
                             {
                                 "companyCode": "MZ1",
@@ -27,68 +31,6 @@
                             {
                                 "companyCode": "MZ2",
                                 "companyName": "MakroMZ5"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "bannerName": "MDD",
-                "vendors": [
-                    {
-                        "vendorNumber": "100",
-                        "companies": [
-                            {
-                                "companyCode": "GZ1",
-                                "companyName": "GameGZ4"
-                            },
-                            {
-                                "companyCode": "GZ2",
-                                "companyName": "GameGZ5"
-                            }
-                        ]
-                    },
-                    {
-                        "vendorNumber": "99",
-                        "companies": [
-                            {
-                                "companyCode": "GZ1",
-                                "companyName": "GameGZ4"
-                            },
-                            {
-                                "companyCode": "GZ2",
-                                "companyName": "GameGZ5"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "bannerName": "MASSBUILD",
-                "vendors": [
-                    {
-                        "vendorNumber": "100",
-                        "companies": [
-                            {
-                                "companyCode": "BZ1",
-                                "companyName": "BuildersBZ4"
-                            },
-                            {
-                                "companyCode": "BZ2",
-                                "companyName": "BuildersBZ5"
-                            }
-                        ]
-                    },
-                    {
-                        "vendorNumber": "99",
-                        "companies": [
-                            {
-                                "companyCode": "BZ1",
-                                "companyName": "BuildersBZ4"
-                            },
-                            {
-                                "companyCode": "BZ2",
-                                "companyName": "BuildersBZ5"
                             }
                         ]
                     }
